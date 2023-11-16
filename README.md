@@ -25,6 +25,10 @@ Ao final, a aplicação exibe uma mensagem personalizada, informando: "O Herói 
 2. Instale as dependências com `npm install` ou `yarn install`
 3. Execute a aplicação com `npm start` ou `yarn start`
 
+### 🌐 Acesse o Projeto
+
+Veja o projeto em ação [clicando aqui.](https://leticiatrindade.github.io/DIO-classificador-nivel-de-heroi/)
+
 ### 🤝 Contribuição
 
 Sinta-se à vontade para forkar este repositório e fazer suas próprias contribuições. Caso tenha sugestões ou melhorias, abra uma issue e vamos trabalhar juntos para tornar este projeto ainda mais incrível!
