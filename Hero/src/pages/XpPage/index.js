@@ -1,14 +1,14 @@
 import React from "react";
-import HomeComponent from "../../components/HomeComponent";
+import Xp from "../../components/Xp";
 import Footer from "../../components/Footer";
 
-function Home() {
+function XpPage() {
     return (
         <>
-            <HomeComponent />
+            <Xp />
             <Footer />
         </>
     );
 }
 
-export default Home;
+export default XpPage;

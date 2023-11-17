@@ -1,14 +1,14 @@
 import React from "react";
-import HomeComponent from "../../components/HomeComponent";
+import Victories from "../../components/Victories";
 import Footer from "../../components/Footer";
 
-function Home() {
+function VictoriesPage() {
     return (
         <>
-            <HomeComponent />
+            <Victories />
             <Footer />
         </>
     );
 }
 
-export default Home;
+export default VictoriesPage;

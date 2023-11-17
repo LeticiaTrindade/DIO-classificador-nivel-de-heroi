@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DIO-classificador-nivel-de-heroi/static/css/main.3fb8e48e.css",
-    "main.js": "/DIO-classificador-nivel-de-heroi/static/js/main.89414ffe.js",
+    "main.css": "/DIO-classificador-nivel-de-heroi/static/css/main.8390f90b.css",
+    "main.js": "/DIO-classificador-nivel-de-heroi/static/js/main.dd7e3366.js",
     "static/js/787.98ff60fa.chunk.js": "/DIO-classificador-nivel-de-heroi/static/js/787.98ff60fa.chunk.js",
     "static/media/background.png": "/DIO-classificador-nivel-de-heroi/static/media/background.54262483f033135ef94f.png",
     "static/media/github.svg": "/DIO-classificador-nivel-de-heroi/static/media/github.d7f21dbf6907a14ce3788326ba82d63b.svg",
     "index.html": "/DIO-classificador-nivel-de-heroi/index.html",
     "static/media/linkedin.svg": "/DIO-classificador-nivel-de-heroi/static/media/linkedin.8df5e1ad24c67a7895061bb05eb7d3c5.svg",
     "static/media/youtube.svg": "/DIO-classificador-nivel-de-heroi/static/media/youtube.0411bc43e5c36690e2a7eec8ae9e5ef9.svg",
-    "main.3fb8e48e.css.map": "/DIO-classificador-nivel-de-heroi/static/css/main.3fb8e48e.css.map",
-    "main.89414ffe.js.map": "/DIO-classificador-nivel-de-heroi/static/js/main.89414ffe.js.map",
+    "main.8390f90b.css.map": "/DIO-classificador-nivel-de-heroi/static/css/main.8390f90b.css.map",
+    "main.dd7e3366.js.map": "/DIO-classificador-nivel-de-heroi/static/js/main.dd7e3366.js.map",
     "787.98ff60fa.chunk.js.map": "/DIO-classificador-nivel-de-heroi/static/js/787.98ff60fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fb8e48e.css",
-    "static/js/main.89414ffe.js"
+    "static/css/main.8390f90b.css",
+    "static/js/main.dd7e3366.js"
   ]
 }
