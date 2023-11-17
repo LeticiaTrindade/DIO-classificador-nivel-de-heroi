@@ -19,6 +19,25 @@ O desafio consiste em criar uma variável para armazenar o nome e a quantidade d
 
 Ao final, a aplicação exibe uma mensagem personalizada, informando: "O Herói de nome **{nome}** está no nível de **{nivel}**".
 
+## Calculadora de Partidas Ranqueadas
+
+### Objetivo
+
+Posteriormente, o projeto evoluiu para incluir uma calculadora de partidas ranqueadas. Agora, uma função é utilizada para calcular o saldo de vitórias de um jogador e classificá-lo em diferentes níveis de elo, com base nas seguintes regras:
+
+- Se vitórias for menor do que 10 = Ferro
+- Se vitórias for entre 11 e 20 = Bronze
+- Se vitórias for entre 21 e 50 = Prata
+- Se vitórias for entre 51 e 80 = Ouro
+- Se vitórias for entre 81 e 90 = Diamante
+- Se vitórias for entre 91 e 100 = Lendário
+- Se vitórias for maior ou igual a 101 = Imortal
+
+### Saída
+
+Ao final, a aplicação exibe uma mensagem: "O Herói tem um saldo de vitórias de **{saldoVitorias}** e está no nível de **{nivel}**".
+
+
 ### 🚀 Como Replicar
 
 1. Clone este repositório
